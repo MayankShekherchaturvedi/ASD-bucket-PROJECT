@@ -1,6 +1,7 @@
 # Express Products API with In-Memory Caching
 
 A layered Express.js application demonstrating in-memory caching with Time-to-Live (TTL), cache status headers (`HIT`/`MISS`), and automatic cache invalidation upon data mutation.
+(USED GEMINI for README.md and minor help)
 
 ---
 
